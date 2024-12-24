@@ -1,0 +1,13 @@
+--class-path src
+--main Main
+
+# for debug
+--define DEBUG
+--debug
+
+# for release
+# --define RELEASE
+
+--hl out/hl/main.hl
+
+--times
